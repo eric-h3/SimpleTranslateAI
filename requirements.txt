@@ -1,0 +1,14 @@
+datasets
+transformers
+sentencepiece
+sacrebleu
+sacremoses
+torch
+evaluate
+accelerate
+gradio
+kaleido
+cohere
+openai
+tiktoken
+typing-extensions
