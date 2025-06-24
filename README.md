@@ -14,12 +14,12 @@ An implementation of machine translation using hugging Face's translation models
 ## Models and Datasets
 
 - **Base Model:**  
-  [Helsinki-NLP/opus-mt-zh-en](https://huggingface.co/Helsinki-NLP/opus-mt-zh-en)  
-  Used as the base model for Chinese-to-English translation.
+  [Helsinki-NLP/opus-mt-en-zh](https://huggingface.co/Helsinki-NLP/opus-mt-en-zh)  
+  Used as the base model for English to Chinese translation.
 
 - **Dataset used to train**  
   [Helsinki-NLP/opus-100](https://huggingface.co/datasets/Helsinki-NLP/opus-100)  
-  OPUS-100 is an English-centric multilingual corpus covering 100 languages.
+  OPUS-100 is an English-centric multilingual corpus covering 100 languages in which case we use the en-zh subset
 
 ## Project Structure
 
