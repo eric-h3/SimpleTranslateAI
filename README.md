@@ -1,6 +1,6 @@
-# SimpleTranslateAI
+# English to Chinese Translator
 
-An implementation of machine translation using hugging Face's translation models. Runs and builds a fine-tune version of the Helsinki-NLP/opus-mt-en-zh model using the opus100 (en-zh). The model is then interactable using a simple translation app.
+An implementation of machine translation using hugging Face's translation models. Runs and builds a fine-tune version of the Helsinki-NLP/opus-mt-en-zh model using the opus100 dataset. The model is then interactable using a simple translation app.
 
 ![Alt text](/images/translate.PNG)
 
